@@ -16,6 +16,7 @@ module.exports = merge(common, {
     hot: true,
     open: true,
     port: 4000,
+    historyApiFallback: true,
   },
   plugins: [
     new LoadablePlugin({
