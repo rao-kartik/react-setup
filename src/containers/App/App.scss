@@ -1,9 +1,4 @@
-@import '../../styles/global.scss';
-
 .app {
-  background: red;
-
-  .new-app {
-    background: blue;
-  }
+  width: 100%;
+  min-height: 100vh;
 }
