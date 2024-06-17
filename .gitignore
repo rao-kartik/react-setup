@@ -3,3 +3,4 @@ node_modules
 build
 loadable-stats.json
 dist
+.yarn

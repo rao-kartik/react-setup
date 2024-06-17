@@ -23,7 +23,7 @@ const commonConstants = {
        */
       customAssetCopy: [
         {
-          from: 'src/images',
+          from: 'src/assets',
           to: `${projectName}/assets`,
         },
       ],
